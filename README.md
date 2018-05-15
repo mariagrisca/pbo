@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama: Maria Grisca Pandey
+
+NPM: 2015804348
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
